@@ -6,7 +6,7 @@ The objective of this assignment is to update our portfolios to include our for 
 I added bootstrap to the technologies used to help with the formatting of the About Me and Examples of my Work sections. 
 
 ## Screenshot of Homepage
-![Image of the webpage with my updated code.](./assets/portfolio_screenshot.jpg)
+![Image of the webpage with my updated code.](./assets/images/portfolio_screenshot.jpg)
 
 ## Link to deployed code
 https://kesjoberg.github.io/portfolio/
